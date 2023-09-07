@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6UzduotisWhile_UnitTesting", "6UzduotisWhile_UnitTesting\6UzduotisWhile_UnitTesting.csproj", "{63264ED4-D33B-463D-A4AC-D28B11AB2131}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_6Uzduotis_while", "Test_6Uzduotis_while\Test_6Uzduotis_while.csproj", "{B73A0AFF-693F-4E40-BBAA-3D7343ED528F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63264ED4-D33B-463D-A4AC-D28B11AB2131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63264ED4-D33B-463D-A4AC-D28B11AB2131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63264ED4-D33B-463D-A4AC-D28B11AB2131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63264ED4-D33B-463D-A4AC-D28B11AB2131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B73A0AFF-693F-4E40-BBAA-3D7343ED528F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73A0AFF-693F-4E40-BBAA-3D7343ED528F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73A0AFF-693F-4E40-BBAA-3D7343ED528F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73A0AFF-693F-4E40-BBAA-3D7343ED528F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63ADE0DC-4BF5-44E4-820A-B349BBF10C49}
+	EndGlobalSection
+EndGlobal
